@@ -11,40 +11,41 @@ redirect_from:
 
 Research experience
 ======
-<b>Honours Project - University of Glasgow<b> (Glasgow, UK, 8/19 - 3/20) - <i>in progress<i>
+<b>Honours Project - University of Glasgow</b> (Glasgow, UK, 8/19 - 3/20) - <i>in progress</i>
 
-<b>Investigating the genetic basis of ventral colouration in common lizards<b>. Analysed and quantified ventral colouration from field-collected specimens of different colour morphs; extracted RNA from ventral scales, carrying out troubleshooting to increase the efficacy of this method; ran quality control of raw sequencing data; bioinformatically analysed the produced RNA-seq data with the use of large computing clusters; performed an RNA-seq differential gene expression analysis; prepared samples for transmission electron microscopy and subsequently characterised differences in pigmentation cell patterns between individuals; prepared project reports and presentations.
+<b>Investigating the genetic basis of ventral colouration in common lizards</b>. Analysed and quantified ventral colouration from field-collected specimens of different colour morphs; extracted RNA from ventral scales, carrying out troubleshooting to increase the efficacy of this method; ran quality control of raw sequencing data; bioinformatically analysed the produced RNA-seq data with the use of large computing clusters; performed an RNA-seq differential gene expression analysis; prepared samples for transmission electron microscopy and subsequently characterised differences in pigmentation cell patterns between individuals; prepared project reports and presentations.
 
-<b>MSci Project - Uppsala University<b> (Uppsala, Sweden, 7/18 - 7/19)
+<b>MSci Project - Uppsala University</b> (Uppsala, Sweden, 7/18 - 7/19)
 
-<b>Recovering microbial, dietary, and host information from historical dental calculus of non-human mammals<b>. Sampled dental calculus from museum-preserved and archaeological specimens; extracted DNA from highly sensitive samples in a dedicated ancient DNA laboratory; prepared next-generation sequencing (NGS) libraries, quantifying and characterizing them, ensuring that they could be submitted for NGS; bioinformatically analysed the produced metagenomic data with the use of large computing clusters, standard and novel analytical tools; prepared project reports, manuscripts, and posters; received a competitive scholarship to present my work at a conference (SMBE19).
+<b>Recovering microbial, dietary, and host information from historical dental calculus of non-human mammals</b>. Sampled dental calculus from museum-preserved and archaeological specimens; extracted DNA from highly sensitive samples in a dedicated ancient DNA laboratory; prepared next-generation sequencing (NGS) libraries, quantifying and characterizing them, ensuring that they could be submitted for NGS; bioinformatically analysed the produced metagenomic data with the use of large computing clusters, standard and novel analytical tools; prepared project reports, manuscripts, and posters; received a competitive scholarship to present my work at a conference (SMBE19).
 
-<b>Field Assistant - University of Glasgow<b> (Carinthia, Austria, 5/16 - 7/18)
+<b>Field Assistant - University of Glasgow</b> (Carinthia, Austria, 5/16 - 7/18)
 
 Three fieldwork seasons (seven months in total) for a research project studying the evolutionary history and genetics of viviparity in the reproductively bimodal common lizards (Zootoca vivipara). Skills involved: lizard capture, design and execution of behavioural experiments, tissue sampling, morphometric data collection and recording, extraction and fixation of embryos from eggshells, spectrophotometry, husbandry.
 
-<b>Field Assistant - The Chinese University of Hong Kong<b> (Hong Kong, 2/17 - 4/17)
+<b>Field Assistant - The Chinese University of Hong Kong</b> (Hong Kong, 2/17 - 4/17)
 
+Fieldwork for a research project studying the spatial distribution of genetic diversity among atyid shrimp species in Hong Kong. Collected samples, measured environmental parameters, GPS localisation and mapping, data recording.
 
 Education
 ======
-<b>MSci Zoology - University of Glasgow<b> (2015 - 2020) - <i>in progress, for completion in spring 2020<i>
+<b>MSci Zoology - University of Glasgow</b> (2015 - 2020) - <i>in progress, for completion in spring 2020</i>
 
-<b>International Asian Studies Programme - The Chinese University of Hong Kong<b> (2016 – 2017)
+<b>International Asian Studies Programme - The Chinese University of Hong Kong</b> (2016 – 2017)
   
 Skills
 ======
-• Application of molecular techniques to highly sensitive samples in a dedicated ancient DNA clean lab.
-• DNA and RNA extraction and quantification, NGS library preparation, PCR, qPCR.
-• Transmission electron microscopy analysis and sample preparation.
-• Linux/Unix shell scripting.
-• Bioinformatic analysis with high-performance parallel computing
-• Metagenomic sequencing data processing and analysis.
-• RNA-seq differential gene expression analysis.
-• R and Python (data cleaning, manipulation, and visualisation).
-• Proficiency in Microsoft Windows OS, including Microsoft Office, and Mac OS.
-• EU driving license.
-• Fluent in English, Portuguese, and highly proficient in spoken and written Spanish. Knowledge of basic Mandarin.
+* Application of molecular techniques to highly sensitive samples in a dedicated ancient DNA clean lab.
+* DNA and RNA extraction and quantification, NGS library preparation, PCR, qPCR.
+* Transmission electron microscopy analysis and sample preparation.
+* Linux/Unix shell scripting.
+* Bioinformatic analysis with high-performance parallel computing
+* Metagenomic sequencing data processing and analysis.
+* RNA-seq differential gene expression analysis.
+* R and Python (data cleaning, manipulation, and visualisation).
+* Proficiency in Microsoft Windows OS, including Microsoft Office, and Mac OS.
+* EU driving license.
+* Fluent in English, Portuguese, and highly proficient in spoken and written Spanish. Knowledge of basic Mandarin.
 
 Publications
 ======
@@ -54,9 +55,9 @@ Publications
   
 Conference Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<b>Leitão HG</b>, Brealey JC, Guschanski K. (2019). ‘Recovering an authentic oral microbiome signature and host genetic diversity from historical dental calculus of non-human mammals’. Society of Molecular Biology and Evolution (SMBE) Meeting 2019, Manchester, UK. (poster)
+
+<b>Leitão HG</b>, Brealey JC, Guschanski K. (2019). ‘How to identify ‘true’ oral taxa in dental calculus?’. Revolution 2019 (Animal Ecology, Uppsala University internal symposium), Uppsala, Sweden. (poster)
   
 Awards
 ======
