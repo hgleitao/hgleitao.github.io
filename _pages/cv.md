@@ -33,6 +33,12 @@ Education
 
 <b>International Asian Studies Programme - The Chinese University of Hong Kong</b> (2016 – 2017)
   
+Publications
+======
+Brealey JC, <b>Leitão HG</b>, van der Valk T, Xu W, Bougiouri K, Dalén L, Guschanski K. (2019). ‘[A roadmap to mammalian oral microbiome evolution with dental calculus](https://www.biorxiv.org/content/10.1101/596791v2)’. bioRxiv.: 596791. (<i>under review</i>)
+
+Recknagel H, Layton M, Carey R, <b>Leitão H, Sutherland M, Elmer KR. (2018). ‘[Melanism in common lizards (Squamata: Lacertidae: Zootoca vivipara): new evidence for a rare but widespread ancestral polymorphism](https://github.com/hgleitao/hgleitao.github.io/blob/master/files/Recknagel_et_al_2018_Melanism.pdf)’. Herpetology Notes. 11: 607–612.
+  
 Skills
 ======
 * Application of molecular techniques to highly sensitive samples in a dedicated ancient DNA clean lab.
@@ -47,12 +53,6 @@ Skills
 * EU driving license.
 * Fluent in English, Portuguese, and highly proficient in spoken and written Spanish. Knowledge of basic Mandarin.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Conference Presentations
 ======
 <b>Leitão HG</b>, Brealey JC, Guschanski K. (2019). ‘Recovering an authentic oral microbiome signature and host genetic diversity from historical dental calculus of non-human mammals’. Society of Molecular Biology and Evolution (SMBE) Meeting 2019, Manchester, UK. (poster)
@@ -63,10 +63,10 @@ Awards
 ======
 
 Undergraduate Travel and Mentoring Award SMBE19, 2019 (registration fee + $1500) 
-Awarded by the Society of Molecular Biology and Evolution to allow attendance and presentation at the annual conference.
+:   Awarded by the Society of Molecular Biology and Evolution to allow attendance and presentation at the annual conference.
 
 Erasmus+ Traineeship Grant, 2018 (5640€) 
-Awarded by the European Commission to fund a 12-month work placement.
+:   Awarded by the European Commission to fund a 12-month work placement.
 
 Dr Victor Lim Travel Scholarship, 2016 (£500) 
-Awarded by the University of Glasgow to the highest-ranking Life Sciences exchange student in Asia.
+:   Awarded by the University of Glasgow to the highest-ranking Life Sciences exchange student in Asia.
