@@ -9,32 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+Research experience
+======
+<b>Honours Project - University of Glasgow<b> (Glasgow, UK, 8/19 - 3/20) - <i>in progress<i>
+
+<b>Investigating the genetic basis of ventral colouration in common lizards<b>. Analysed and quantified ventral colouration from field-collected specimens of different colour morphs; extracted RNA from ventral scales, carrying out troubleshooting to increase the efficacy of this method; ran quality control of raw sequencing data; bioinformatically analysed the produced RNA-seq data with the use of large computing clusters; performed an RNA-seq differential gene expression analysis; prepared samples for transmission electron microscopy and subsequently characterised differences in pigmentation cell patterns between individuals; prepared project reports and presentations.
+
+<b>MSci Project - Uppsala University<b> (Uppsala, Sweden, 7/18 - 7/19)
+
+<b>Recovering microbial, dietary, and host information from historical dental calculus of non-human mammals<b>. Sampled dental calculus from museum-preserved and archaeological specimens; extracted DNA from highly sensitive samples in a dedicated ancient DNA laboratory; prepared next-generation sequencing (NGS) libraries, quantifying and characterizing them, ensuring that they could be submitted for NGS; bioinformatically analysed the produced metagenomic data with the use of large computing clusters, standard and novel analytical tools; prepared project reports, manuscripts, and posters; received a competitive scholarship to present my work at a conference (SMBE19).
+
+<b>Field Assistant - University of Glasgow<b> (Carinthia, Austria, 5/16 - 7/18)
+
+Three fieldwork seasons (seven months in total) for a research project studying the evolutionary history and genetics of viviparity in the reproductively bimodal common lizards (Zootoca vivipara). Skills involved: lizard capture, design and execution of behavioural experiments, tissue sampling, morphometric data collection and recording, extraction and fixation of embryos from eggshells, spectrophotometry, husbandry.
+
+<b>Field Assistant - The Chinese University of Hong Kong<b> (Hong Kong, 2/17 - 4/17)
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<b>MSci Zoology - University of Glasgow<b> (2015 - 2020) - <i>in progress, for completion in spring 2020<i>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<b>International Asian Studies Programme - The Chinese University of Hong Kong<b> (2016 – 2017)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+• Application of molecular techniques to highly sensitive samples in a dedicated ancient DNA clean lab.
+• DNA and RNA extraction and quantification, NGS library preparation, PCR, qPCR.
+• Transmission electron microscopy analysis and sample preparation.
+• Linux/Unix shell scripting.
+• Bioinformatic analysis with high-performance parallel computing
+• Metagenomic sequencing data processing and analysis.
+• RNA-seq differential gene expression analysis.
+• R and Python (data cleaning, manipulation, and visualisation).
+• Proficiency in Microsoft Windows OS, including Microsoft Office, and Mac OS.
+• EU driving license.
+• Fluent in English, Portuguese, and highly proficient in spoken and written Spanish. Knowledge of basic Mandarin.
 
 Publications
 ======
@@ -42,18 +52,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Undergraduate Travel and Mentoring Award SMBE19, 2019 (registration fee + $1500) 
+Awarded by the Society of Molecular Biology and Evolution to allow attendance and presentation at the annual conference.
+
+Erasmus+ Traineeship Grant, 2018 (5640€) 
+Awarded by the European Commission to fund a 12-month work placement.
+
+Dr Victor Lim Travel Scholarship, 2016 (£500) 
+Awarded by the University of Glasgow to the highest-ranking Life Sciences exchange student in Asia.
