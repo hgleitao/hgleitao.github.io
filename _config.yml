@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Henrique G. Leitão"
-  avatar           : "/c/Users/henrique/Documents/HL_photo.jpg"
+  avatar           : "HL_photo.jpg"
   bio              : "MSci Zoology"
   location         : "Glasgow, UK"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=BiqVqu0AAAAJ&hl=en"
-  email            :
+  email            : "2205898L@student.gla.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Henrique_Leitao2"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hgleitao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9212-4590"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "hgleitao"
   vine             :
   weibo            :
   xing             :
