@@ -37,7 +37,7 @@ Publications
 ======
 Brealey JC, <b>Leitão HG</b>, van der Valk T, Xu W, Bougiouri K, Dalén L, Guschanski K. (2019). ‘[A roadmap to mammalian oral microbiome evolution with dental calculus](https://www.biorxiv.org/content/10.1101/596791v2)’. bioRxiv.: 596791. (<i>under review</i>)
 
-Recknagel H, Layton M, Carey R, <b>Leitão H, Sutherland M, Elmer KR. (2018). ‘[Melanism in common lizards (Squamata: Lacertidae: Zootoca vivipara): new evidence for a rare but widespread ancestral polymorphism](https://github.com/hgleitao/hgleitao.github.io/blob/master/files/Recknagel_et_al_2018_Melanism.pdf)’. Herpetology Notes. 11: 607–612.
+Recknagel H, Layton M, Carey R, <b>Leitão H</b>, Sutherland M, Elmer KR. (2018). ‘[Melanism in common lizards (Squamata: Lacertidae: Zootoca vivipara): new evidence for a rare but widespread ancestral polymorphism](https://github.com/hgleitao/hgleitao.github.io/blob/master/files/Recknagel_et_al_2018_Melanism.pdf)’. Herpetology Notes. 11: 607–612.
   
 Skills
 ======
