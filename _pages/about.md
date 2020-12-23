@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-I am a first year PhD student in evolutionary genomics at the University of Antwerp, working with [Hannes Svardal](http://web.cs.ucla.edu/~sriram/http://web.cs.ucla.edu/~sriram/) and [Bogdan Pasaniuc](https://www.uantwerpen.be/en/staff/hannes-svardal/). I am interested in the evolution of adaptive traits, and using an integrative approach (genomics, morphology, ecology) to carry out research in this area. 
+I am a first year PhD student in evolutionary genomics at the University of Antwerp, working with [Hannes Svardal](https://www.uantwerpen.be/en/staff/hannes-svardal/). I am interested in the evolution of adaptive traits, and using an integrative approach (genomics, morphology, ecology) to carry out research in this area. 
 
-Previously, I completed an MSci degree at the University of Glasgow, where I worked on the genetic basis of colour variation in common lizards, working with Hans Recknagel and Kathryn R Elmer. As part of my degree, I did a 1-year research internship in the lab of Katerina Guschanski, where I worked with Jaelle Brealey and had first-hand experience with aDNA techniques and bioinformatic methods for analysing metagenomic data.
+Previously, I completed an MSci degree at the University of Glasgow, where I investigated the genetic basis of colour variation in common lizards, working with [Hans Recknagel](https://hansrecknagel.com/research/) and [Kathryn Elmer](https://www.gla.ac.uk/researchinstitutes/bahcm/staff/kathrynelmer/). As part of my degree, I did a 1-year research internship in the lab of [Katerina Guschanski](https://www.ieg.uu.se/animal-ecology/Research+groups/guschanski-lab), where I worked with [Jaelle Brealey](https://www.ntnu.edu/employees/jaelle.brealey) and had first-hand experience with aDNA techniques and bioinformatic methods for analysing metagenomic data.
 
 
 Recent News
