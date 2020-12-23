@@ -32,7 +32,7 @@ Publications
 
 **(preprints)**
 
-1. [<span style="color:##0000EE"> **Wild animal oral microbiomes reflect the history of human antibiotics use**</span>](https://www.biorxiv.org/content/10.1101/2020.12.22.423960v1) <br> Jaelle C Brealey, __HG Leitão__, Thijs Hofstede, Daniela C Kalthoff, Katerina Guschanski; *BioRxiv 2020*.
+1. [<span style="color:##0000EE"> **Wild animal oral microbiomes reflect the history of human antibiotics use**</span>](https://www.biorxiv.org/content/10.1101/2020.12.22.423960v1) <br> Jaelle C Brealey, __Henrique G Leitão__, Thijs Hofstede, Daniela C Kalthoff, Katerina Guschanski; *BioRxiv 2020*.
 
 
 <br>
