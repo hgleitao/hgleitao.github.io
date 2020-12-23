@@ -1,13 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Research"
-    url: /portfolio/
         
   - title: "CV"
     url: "/images/Henrique_Leitao_CV_short_Dec_2020.pdf"
-    
-  - title: "About"
-    url: /markdown/
