@@ -7,7 +7,7 @@
    ========================================================================== */
 
 // Google fonts
-@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 $doc-font-size              : 11;
@@ -17,8 +17,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : "Inconsolata", monospace;
-$sans-serif                 : "Inconsolata", monospace;
+$serif                      : "Lato", monospace;
+$sans-serif                 : "Lato", monospace;
 $monospace                  : "Roboto", sans-serif;
 
 
@@ -27,11 +27,11 @@ $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* serif typefaces */
-$georgia                    : "Inconsolata", monospace;
-$times                      : "Inconsolata", monospace;
-$bodoni                     : "Inconsolata", monospace;
-$calisto                    : "Inconsolata", monospace;
-$garamond                   : "Inconsolata", monospace;
+$georgia                    : "Lato", monospace;
+$times                      : "Lato", monospace;
+$bodoni                     : "Lato", monospace;
+$calisto                    : "Lato", monospace;
+$garamond                   : "Lato", monospace;
 
 $global-font-family         : $monospace;
 $header-font-family         : $monospace;
