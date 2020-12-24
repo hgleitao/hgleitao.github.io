@@ -17,7 +17,7 @@ Previously, I completed an MSci degree at the University of Glasgow, where I inv
 
 Recent News
 ======
-* <span style="color:#800080">[January 2021]</span> Started my PhD in evolutionary genomics at the University of Antwerp
+* <span style="color:#0645AD">[January 2021]</span> Started my PhD in evolutionary genomics at the University of Antwerp
 
 
 <br>
