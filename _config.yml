@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Henrique G. Leitão"
 title_separator          : "-"
 name                     : &name "Henrique G. Leitão"
-description              : &description "MSci student at the University of Glasgow"
+description              : &description "personal description"
 url                      : https://hgleitao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hgleitao.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Henrique G. Leitão"
+  name             : ""
   avatar           : "HL_photo.jpg"
   bio              : "MSci Zoology"
   location         : "Antwerp, BE"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "hgleitao"
   orcid            : "https://orcid.org/0000-0002-9212-4590"
   pinterest        :
   soundcloud       :
