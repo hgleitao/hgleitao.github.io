@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a first-year PhD student in the [Svardal lab](https://www.uantwerpen.be/en/staff/hannes-svardal/) at the University of Antwerp. I am interested in the evolution of adaptive traits and using an integrative approach (genomics, morphology, ecology) to understand how and why populations change in response to their environment. 
+I am a first-year PhD student in the [Svardal lab](https://www.uantwerpen.be/en/staff/hannes-svardal/svardal-lab/) at the University of Antwerp. I am interested in the evolution of adaptive traits and using an integrative approach (genomics, morphology, ecology) to understand how and why populations change in response to their environment. 
 
 Previously, I completed an MSci degree at the University of Glasgow, where I investigated the genetic basis of colour variation in common lizards, working with [Hans Recknagel](https://hansrecknagel.com/research/) and [Kathryn Elmer](https://www.gla.ac.uk/researchinstitutes/bahcm/staff/kathrynelmer/). As part of my degree, I did a one-year research internship in the [Guschanski lab](https://www.ieg.uu.se/animal-ecology/Research+groups/guschanski-lab) at Uppsala University, where I worked with [Jaelle Brealey](https://www.ntnu.edu/employees/jaelle.brealey) and gained first-hand experience with aDNA techniques and bioinformatic methods for analysing metagenomic data.
 
