@@ -17,7 +17,9 @@ Previously, I completed an MSci degree at the University of Glasgow, where I inv
 
 Recent News
 ======
+* <span style="color:#0645AD">[June 2021]</span> Presented the results from my Honours project at Virtual Evolution 2021
 * <span style="color:#0645AD">[January 2021]</span> Started my PhD in evolutionary genomics at the University of Antwerp
+
 
 
 <br>
@@ -40,9 +42,11 @@ Publications
 Conference Presentations
 ======
 
-1. **Recovering an authentic oral microbiome signature and host genetic diversity from historical dental calculus of non-human mammals**  <br> Socity of Molecular Biology and Evolution (SMBE) Meeting, July 2019, Manchester, UK; *poster*. 
+1. **Genetic mechanisms of colour divergence in common lizards**  <br> Evolution, June 2021, online; *talk*. 
 
-2. **How to identify ‘true’ oral taxa in dental calculus?**  <br> Revolution 2019, Animal Ecology, Uppsala University internal symposium, Uppsala, 
+2. **Recovering an authentic oral microbiome signature and host genetic diversity from historical dental calculus of non-human mammals**  <br> Society of Molecular Biology and Evolution (SMBE) Meeting, July 2019, Manchester, UK; *poster*. 
+
+3. **How to identify ‘true’ oral taxa in dental calculus?**  <br> Revolution 2019, Animal Ecology, Uppsala University internal symposium, Uppsala, 
 Sweden; *poster*.
 
 
