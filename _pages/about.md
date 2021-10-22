@@ -17,6 +17,7 @@ Previously, I completed an MSci degree at the University of Glasgow, where I inv
 
 Recent News
 ======
+* <span style="color:#0645AD">[October 2021]</span> Awarded an FWO PhD Fellowship to investigate the genomic basis of osteoderm evolution in a girdled lizard!
 * <span style="color:#0645AD">[August 2021]</span> Article on temporal metagenomics of AMR in bear dental calculus out in [Current Biology](https://www.sciencedirect.com/science/article/pii/S096098222101112X), from my time in the Guschanski lab at Uppsala University
 * <span style="color:#0645AD">[June 2021]</span> Presented the results from my Honours project at Virtual Evolution 2021
 * <span style="color:#0645AD">[January 2021]</span> Started my PhD in evolutionary genomics at the University of Antwerp
