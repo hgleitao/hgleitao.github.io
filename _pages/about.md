@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a first-year PhD student in the [Svardal lab](https://www.uantwerpen.be/en/staff/hannes-svardal/svardal-lab/) at the University of Antwerp. I am interested in the evolution of adaptive traits and using an integrative approach (genomics, morphology, ecology) to understand how and why populations change in response to their environment. 
+I am a PhD student in the [Svardal lab](https://www.uantwerpen.be/en/staff/hannes-svardal/svardal-lab/) at the University of Antwerp. I am interested in the evolution of adaptive traits and using an integrative approach (genomics, morphology, ecology) to understand how and why populations change in response to their environment. I have recently been granted an [FWO](https://www.fwo.be/en/) PhD Fellowship (co-supervised by [Raoul Van Damme](https://www.uantwerpen.be/en/research-groups/funmorph) and [Kris Laukens](https://www.uantwerpen.be/en/research-groups/adrem-data-lab)) to investigate the genomic basis of osteoderm expression in the Cape Cliff Lizard, *Hemicordylus capensis*. My work is part of a [collaborative project](https://www.uantwerpen.be/en/research-groups/funmorph/osteoderm/) studying the evolutionary basis of variation in this trait.
 
 Previously, I completed an MSci degree at the University of Glasgow, where I investigated the genetic basis of colour variation in common lizards, working with [Hans Recknagel](https://hansrecknagel.com/research/) and [Kathryn Elmer](https://www.gla.ac.uk/researchinstitutes/bahcm/staff/kathrynelmer/). As part of my degree, I did a one-year research internship in the [Guschanski lab](https://www.ieg.uu.se/animal-ecology/Research+groups/guschanski-lab) at Uppsala University, where I worked with [Jaelle Brealey](https://www.ntnu.edu/employees/jaelle.brealey) and gained first-hand experience with aDNA techniques and bioinformatic methods for analysing metagenomic data.
 
@@ -55,6 +55,7 @@ Sweden; *poster*.
 Awards
 ======
 
+* FWO PhD Fellowship (2021)
 * Undergraduate Travel and Mentoring Award SMBE19 (2019)
 * Erasmus+ Traineeship Grant (2018)
 * Dr Victor Lim Travel Scholarship (2016)
