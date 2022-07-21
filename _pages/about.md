@@ -29,11 +29,15 @@ Recent News
 Publications
 ======
 
-1. [<span style="color:#0645AD"> **The oral microbiota of wild bears in Sweden reflects the history of antibiotic use by humans**</span>](https://academic.oup.com/mbe/article/37/10/3003/5848415) <br> Jaelle C Brealey, __Henrique G Leitão__, Thijs Hofstede, Daniela C Kalthoff, Katerina Guschanski; *Current Biology 2021*.
+1. <span style="color:#0645AD"> **Chromosome-level assembly of the Cape cliff lizard (*Hemicordylus capensis*)**</span><br> __Henrique G Leitão__, Genevieve Diedericks, Chris Broeckhoven, Raoul Van Damme, Hannes Svardal; *In prep*.
 
-2. [<span style="color:#0645AD"> **Dental calculus as a tool to study the evolution of the mammalian oral microbiome**</span>](https://academic.oup.com/mbe/article/37/10/3003/5848415) <br> Jaelle C Brealey, __Henrique G Leitão__, Tom van der Valk, Wenbo Xu, Katia Bougiouri, Love Dalén, Katerina Guschanski; *Molecular Biology and Evolution 2020*.
+2. <span style="color:#0645AD"> **Genetic basis and expression of ventral colour in polymorphic common lizards**</span><br> Hans Recknagel, __Henrique G Leitão__, Kathryn R Elmer; *In review*.
 
-3. [<span style="color:#0645AD"> **Melanism in common lizards (Squamata: Lacertidae: Zootoca vivipara): new evidence for a rare but widespread ancestral polymorphism**</span>](https://www.biotaxa.org/hn/article/view/33903/0) <br> Hans Recknagel, Megan Layton, Ruth Carey, __Henrique Leitão__, Mark Sutherland, Kathryn R Elmer; *Herpetology Notes 2018*.
+3. [<span style="color:#0645AD"> **The oral microbiota of wild bears in Sweden reflects the history of antibiotic use by humans**</span>](https://academic.oup.com/mbe/article/37/10/3003/5848415) <br> Jaelle C Brealey, __Henrique G Leitão__, Thijs Hofstede, Daniela C Kalthoff, Katerina Guschanski; *Current Biology 2021*.
+
+4. [<span style="color:#0645AD"> **Dental calculus as a tool to study the evolution of the mammalian oral microbiome**</span>](https://academic.oup.com/mbe/article/37/10/3003/5848415) <br> Jaelle C Brealey, __Henrique G Leitão__, Tom van der Valk, Wenbo Xu, Katia Bougiouri, Love Dalén, Katerina Guschanski; *Molecular Biology and Evolution 2020*.
+
+5. [<span style="color:#0645AD"> **Melanism in common lizards (Squamata: Lacertidae: Zootoca vivipara): new evidence for a rare but widespread ancestral polymorphism**</span>](https://www.biotaxa.org/hn/article/view/33903/0) <br> Hans Recknagel, Megan Layton, Ruth Carey, __Henrique Leitão__, Mark Sutherland, Kathryn R Elmer; *Herpetology Notes 2018*.
 
 
 
