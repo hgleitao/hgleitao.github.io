@@ -17,7 +17,7 @@ Previously, I completed an MSci degree at the University of Glasgow, where I inv
 
 Recent News
 ======
-* <span style="color:#0645AD">[January 2023]</span> Paper out in [Genome Biology and Evolution](https://doi.org/10.1093/gbe/evad001), reporting on the new _H. capensis_ chromosome-level genome assembly and including an investigation on the (previously unknown) sex determination system in this species.
+* <span style="color:#0645AD">[January 2023]</span> Paper out in [Genome Biology and Evolution](https://doi.org/10.1093/gbe/evad001), reporting on the new _H. capensis_ chromosome-level [reference genome](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_027244095.1/) and including an investigation on the (previously unknown) sex determination system in this species.
 * <span style="color:#0645AD">[October 2021]</span> Awarded an FWO PhD Fellowship to investigate the genomic basis of osteoderm evolution in a girdled lizard!
 * <span style="color:#0645AD">[August 2021]</span> Article on temporal metagenomics of AMR in bear dental calculus out in [Current Biology](https://www.sciencedirect.com/science/article/pii/S096098222101112X), from my time in the Guschanski lab at Uppsala University
 * <span style="color:#0645AD">[June 2021]</span> Presented the results from my Honours project at Virtual Evolution 2021
