@@ -17,10 +17,20 @@ Previously, I completed an MSci degree at the University of Glasgow, where I inv
 
 Recent News
 ======
+* <span style="color:#0645AD">[January 2023]</span> Paper out in [Genome Biology and Evolution](https://doi.org/10.1093/gbe/evad001), reporting on the new _H. capensis_ chromosome-level genome assembly and including an investigation on the (previously unknown) sex determination system in this species.
 * <span style="color:#0645AD">[October 2021]</span> Awarded an FWO PhD Fellowship to investigate the genomic basis of osteoderm evolution in a girdled lizard!
 * <span style="color:#0645AD">[August 2021]</span> Article on temporal metagenomics of AMR in bear dental calculus out in [Current Biology](https://www.sciencedirect.com/science/article/pii/S096098222101112X), from my time in the Guschanski lab at Uppsala University
 * <span style="color:#0645AD">[June 2021]</span> Presented the results from my Honours project at Virtual Evolution 2021
 * <span style="color:#0645AD">[January 2021]</span> Started my PhD in evolutionary genomics at the University of Antwerp
+
+
+
+<br>
+
+Submitted Manuscripts
+======
+
+1. <span style="color:#0645AD"> **Genetic basis and expression of ventral colour in polymorphic common lizards**</span> <br> Hans Recknagel, __Henrique G Leitão__, Kathryn R Elmer
 
 
 
@@ -44,11 +54,15 @@ Publications
 Conference Presentations
 ======
 
-1. **Genetic mechanisms of colour divergence in common lizards**  <br> Evolution, June 2021, online; *talk*. 
+1. **Introduction to the ERGA pilot project**  <br> Biodiversity Genomics, October 2022, online; *talk*. 
 
-2. **Recovering an authentic oral microbiome signature and host genetic diversity from historical dental calculus of non-human mammals**  <br> Society of Molecular Biology and Evolution (SMBE) Meeting, July 2019, Manchester, UK; *poster*. 
+2. **Chromosome-level assembly of the Cape cliff lizard (*Hemicordylus capensis*)**  <br> Biodiversity Genomics, October 2022, online; *poster and lightning talk*. 
 
-3. **How to identify ‘true’ oral taxa in dental calculus?**  <br> Revolution 2019, Animal Ecology, Uppsala University internal symposium, Uppsala, 
+3. **Genetic mechanisms of colour divergence in common lizards**  <br> Evolution, June 2021, online; *talk*. 
+
+4. **Recovering an authentic oral microbiome signature and host genetic diversity from historical dental calculus of non-human mammals**  <br> Society of Molecular Biology and Evolution (SMBE) Meeting, July 2019, Manchester, UK; *poster*. 
+
+5. **How to identify ‘true’ oral taxa in dental calculus?**  <br> Revolution 2019, Animal Ecology, Uppsala University internal symposium, Uppsala, 
 Sweden; *poster*.
 
 
