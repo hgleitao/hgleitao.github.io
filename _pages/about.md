@@ -3,77 +3,16 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+I'm an evolutionary genomics researcher interested in how genomic variation relates to biological traits. During my PhD, I studied osteoderm variation—bony plates that form within the skin—in the Cape cliff lizard (*Hemicordylus capensis*), and built chromosome-level reference genomes for this and other species.
 
+Alongside my PhD, I worked with the European Reference Genome Atlas (ERGA), a European collaboration to build reference genomes for biodiversity. I led its Antwerp sequencing hub, carrying out Omni-C and Illumina library preparation and sequencing QC while coordinating work across 17 genome projects.
 
-I am a PhD student in the [Svardal lab](https://www.uantwerpen.be/en/staff/hannes-svardal/svardal-lab/) at the University of Antwerp. I am interested in the evolution of adaptive traits and using an integrative approach (genomics, morphology, ecology) to understand how and why populations change in response to their environment. I have been granted an [FWO](https://www.fwo.be/en/) PhD Fellowship (co-supervised by [Raoul Van Damme](https://www.uantwerpen.be/en/research-groups/funmorph) and [Kris Laukens](https://www.uantwerpen.be/en/research-groups/adrem-data-lab)) to investigate the genomic basis of osteoderm expression in the Cape Cliff Lizard, *Hemicordylus capensis*. My work is part of a [collaborative project](https://www.uantwerpen.be/en/research-groups/funmorph/osteoderm/) studying the evolutionary basis of variation in this trait.
+I'm also interested in sex chromosomes and how they evolve. More broadly, I enjoy using genomic data to study evolutionary questions in non-model species.
+## Publications
 
-Previously, I completed an MSci degree at the University of Glasgow, where I investigated the genetic basis of colour variation in common lizards, working with [Hans Recknagel](https://hansrecknagel.com/research/) and [Kathryn Elmer](https://www.gla.ac.uk/researchinstitutes/bahcm/staff/kathrynelmer/). As part of my degree, I did a one-year research internship in the [Guschanski lab](https://www.ieg.uu.se/animal-ecology/Research+groups/guschanski-lab) at Uppsala University, where I worked with [Jaelle Brealey](https://www.ntnu.edu/employees/jaelle.brealey) and gained first-hand experience with aDNA techniques and bioinformatic methods for analysing metagenomic data.
-
-
-Recent News
-======
-* <span style="color:#0645AD">[January 2023]</span> Paper out in [Genome Biology and Evolution](https://doi.org/10.1093/gbe/evad001), reporting on the new _H. capensis_ chromosome-level [reference genome](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_027244095.1/) and including an investigation on the (previously unknown) sex determination system in this species.
-* <span style="color:#0645AD">[October 2021]</span> Awarded an FWO PhD Fellowship to investigate the genomic basis of osteoderm evolution in a girdled lizard!
-* <span style="color:#0645AD">[August 2021]</span> Article on temporal metagenomics of AMR in bear dental calculus out in [Current Biology](https://www.sciencedirect.com/science/article/pii/S096098222101112X), from my time in the Guschanski lab at Uppsala University
-* <span style="color:#0645AD">[June 2021]</span> Presented the results from my Honours project at Virtual Evolution 2021
-* <span style="color:#0645AD">[January 2021]</span> Started my PhD in evolutionary genomics at the University of Antwerp
-
-
-
-<br>
-
-Submitted Manuscripts
-======
-
-1. <span style="color:#0645AD"> **Genetic basis and expression of ventral colour in polymorphic common lizards**</span> <br> Hans Recknagel, __Henrique G Leitão__, Kathryn R Elmer
-
-
-
-<br>
-
-Publications
-======
-
-1. [<span style="color:#0645AD"> **Chromosome-level genome assembly of the Cape cliff lizard (*Hemicordylus capensis*)**</span>](https://doi.org/10.1093/gbe/evad001) <br> __Henrique G Leitão__, Genevieve Diedericks, Chris Broeckhoven, Simon Baeckens, Hannes Svardal; *Genome Biology and Evolution 2023*.
-
-2. [<span style="color:#0645AD"> **The oral microbiota of wild bears in Sweden reflects the history of antibiotic use by humans**</span>](https://academic.oup.com/mbe/article/37/10/3003/5848415) <br> Jaelle C Brealey, __Henrique G Leitão__, Thijs Hofstede, Daniela C Kalthoff, Katerina Guschanski; *Current Biology 2021*.
-
-3. [<span style="color:#0645AD"> **Dental calculus as a tool to study the evolution of the mammalian oral microbiome**</span>](https://academic.oup.com/mbe/article/37/10/3003/5848415) <br> Jaelle C Brealey, __Henrique G Leitão__, Tom van der Valk, Wenbo Xu, Katia Bougiouri, Love Dalén, Katerina Guschanski; *Molecular Biology and Evolution 2020*.
-
-4. [<span style="color:#0645AD"> **Melanism in common lizards (Squamata: Lacertidae: Zootoca vivipara): new evidence for a rare but widespread ancestral polymorphism**</span>](https://www.biotaxa.org/hn/article/view/33903/0) <br> Hans Recknagel, Megan Layton, Ruth Carey, __Henrique Leitão__, Mark Sutherland, Kathryn R Elmer; *Herpetology Notes 2018*.
-
-
-
-<br>
-
-Conference Presentations
-======
-
-1. **Introduction to the ERGA pilot project**  <br> Biodiversity Genomics, October 2022, online; *talk*. 
-
-2. **Chromosome-level assembly of the Cape cliff lizard (*Hemicordylus capensis*)**  <br> Biodiversity Genomics, October 2022, online; *poster and lightning talk*. 
-
-3. **Genetic mechanisms of colour divergence in common lizards**  <br> Evolution, June 2021, online; *talk*. 
-
-4. **Recovering an authentic oral microbiome signature and host genetic diversity from historical dental calculus of non-human mammals**  <br> Society of Molecular Biology and Evolution (SMBE) Meeting, July 2019, Manchester, UK; *poster*. 
-
-5. **How to identify ‘true’ oral taxa in dental calculus?**  <br> Revolution 2019, Animal Ecology, Uppsala University internal symposium, Uppsala, 
-Sweden; *poster*.
-
-
-<br>
-
-Awards
-======
-
-* FWO PhD Fellowship (2021)
-* Undergraduate Travel and Mentoring Award SMBE19 (2019)
-* Erasmus+ Traineeship Grant (2018)
-* Dr Victor Lim Travel Scholarship (2016)
-
-
+See the [full publication list](/publications/), [Google Scholar profile](https://scholar.google.com/citations?user=BiqVqu0AAAAJ&hl=en), or download my [full academic CV](/images/Henrique_Leitao_Full_CV.pdf).

@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Henrique G. Leitão"
 title_separator          : "-"
 name                     : &name "Henrique G. Leitão"
-description              : &description "personal description"
+description              : &description "Evolutionary genomics research on lizard trait variation, with a developing interest in comparative sex-chromosome evolution."
 url                      : https://hgleitao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hgleitao.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Henrique G. Leitão"
   avatar           : "HL_photo.jpg"
-  bio              : ""
+  bio              : "Evolutionary genomics research on trait variation."
   location         : "Antwerp, BE"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=BiqVqu0AAAAJ&hl=en"
-  email            : "henrique.leitao@uantwerpen.be"
+  email            : "henrique.grancha.leitao@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Henrique_Leitao2"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hgleitao"
+  twitter          :
   vine             :
   weibo            :
   xing             :

@@ -1,5 +1,6 @@
-# main links links
+# main links
 main:
-        
+  - title: "Publications"
+    url: "/publications/"
   - title: "CV"
-    url: "/images/Henrique_Leitao_CV_20230904.pdf"
+    url: "/images/Henrique_Leitao_Full_CV.pdf"
