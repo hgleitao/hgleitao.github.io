@@ -54,7 +54,7 @@
     
     {% assign citation = post.citation %}
     {% if post.collection == 'publications' %}
-      {% assign citation = citation | replace: "Leitão HG", "<strong>Leitão HG</strong>" | replace: "Leitão H,", "<strong>Leitão H</strong>," %}
+      {% assign citation = citation | replace: "Leitão HG", "<strong class='publication-author'>Leitão HG</strong>" | replace: "Leitão H,", "<strong class='publication-author'>Leitão H</strong>," %}
     {% endif %}
 
     {% if post.citation and post.paperurl %}
