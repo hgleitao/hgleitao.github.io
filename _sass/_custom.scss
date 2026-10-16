@@ -1,0 +1,78 @@
+.research-figure-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1rem 0 2rem;
+}
+
+.research-figure-card {
+  min-width: 0;
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid #d9dee3;
+  border-radius: 4px;
+  background: #fff;
+}
+
+.research-figure-card__link {
+  display: block;
+  color: inherit;
+  text-decoration: none !important;
+}
+
+.research-figure-card__link:hover .research-figure-card__caption strong {
+  text-decoration: underline;
+}
+
+.research-figure-card__link:focus-visible {
+  outline: 3px solid #52adc8;
+  outline-offset: -3px;
+}
+
+.research-figure-card__image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 220px;
+  padding: 0.5rem;
+  background: #f3f4f5;
+}
+
+.research-figure-card__image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: contain;
+  box-shadow: none !important;
+}
+
+.research-figure-card__caption {
+  display: block;
+  padding: 0.85rem 0.95rem 0.6rem;
+  line-height: 1.45;
+}
+
+.research-figure-card__caption strong {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.research-figure-card__caption span {
+  display: block;
+  font-size: 0.85rem;
+}
+
+.research-figure-card figcaption {
+  margin: 0;
+  padding: 0 0.95rem 0.9rem;
+  color: #646a70;
+  font-size: 0.72rem;
+  line-height: 1.4;
+}
+
+@media (max-width: 600px) {
+  .research-figure-grid {
+    grid-template-columns: 1fr;
+  }
+}
